@@ -4,8 +4,6 @@
 **Affiliation:** Inter-American Development Bank (IDB), Washington, D.C.  
 **Year:** 2025  
 **License:** MIT License  
-**DOI (pending):** [To be added after Zenodo deposition]
-
 ---
 
 ## Overview
@@ -13,7 +11,7 @@
 This repository accompanies the paper:
 
 > **Vallarino, D. (2025). _Taxing the Invisible: Robust Fiscal Design under Informational Scarcity._**  
-> Journal of Economics, Finance and Administrative Science (JEFAS).
+> Working Paper.
 
 The project develops a **robust taxation framework** combining  
 Graph Neural Networks (GNNs) and distributionally robust optimization  
