@@ -1,0 +1,3 @@
+Supplementary technical notes for the paper 'Taxing the Invisible' (Working Paper, October 2025).
+Author: Diego Vallarino (Inter-American Development Bank, Washington D.C.)
+This file documents simulation assumptions and parameters used in R and Python scripts.
